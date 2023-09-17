@@ -1,4 +1,5 @@
 einops
+ipykernel
 matplotlib
 scipy
 tenacity
