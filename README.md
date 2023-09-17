@@ -5,6 +5,8 @@
 A minimal reproduction of [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037) over continuous data for the purposes of clarity and understanding. The notebooks in this repo reproduce the figures in Section 4 of the paper and apply BFNs to model 1-dimensional and 2-dimensional points.
 
 ## Installation
+Create a virtual environment with python >= 3.9.
+
 Install the required packages.
 ```
 pip install -r requirements.txt
